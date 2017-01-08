@@ -1,0 +1,15 @@
+{
+  "name": "lesson02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "echo \"Start Task 1\" && node task1.js"
+  },
+  "author": "Malakhov Maksim",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  }
+}
